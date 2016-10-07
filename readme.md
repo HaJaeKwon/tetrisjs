@@ -1,2 +1,2 @@
 
-![gameplay](./img/ss.png)
+![gameplay](./ss.png)
